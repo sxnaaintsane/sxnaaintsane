@@ -1,10 +1,10 @@
 
 ### Hi, I'm Sana! 
 
-👩🏻‍💻 High school student on my journey to learn in tech <br/> 
-👩🏻‍🎓 Exploring the realms of data science <br/> 
-🎨 Crafting stories through code and writing <br/> 
-🌷 #LearningInPublic in my digital space <br/> 
+👩🏻‍💻 High school student on a quest to find out what will run out first: my lifespan or this endless journey of learning. <br/> 
+👩🏻‍🎓 Buried in exploring the depths of data analytics <br/> 
+🎨 Gathering haunting tales about coding to pass down to my next of kin <br/> 
+🌷 in my digital space <br/> 
 💭 Currently diving into Python, SQL, and machine learning! <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
